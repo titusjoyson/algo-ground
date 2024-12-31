@@ -13,4 +13,4 @@ Inspiration, code snippets, etc.
 Contributors names and contact info
 
 ex. Titus Joyson
-ex. [@titusjoyson](https://twitter.com/dompizzie)
+ex. [@titusjoyson](https://twitter.com)
